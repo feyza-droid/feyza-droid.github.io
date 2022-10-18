@@ -29,11 +29,11 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 
 # code highlighter theme
 highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
-highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: monokai    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
-repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: vue       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: react           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -71,7 +71,7 @@ github_username: feyza-droid # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: feyzaeksen # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: QttArc11tdsC&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -112,7 +112,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 posts_name: posts # posts_name will be displayed in your posts page
 posts_nav_title: posts # your posts must have a title for it to be displayed in the nav bar
-posts_description: a simple whitespace theme for academics
+posts_description: what I learn
 permalink: /posts/:year/:title/
 
 # Pagination
@@ -222,7 +222,7 @@ jekyll-archives:
     tag: '/posts/tag/:name/'
     category: '/posts/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your posts
+display_tags: ['reinforcement learning', 'imitation learning', 'intrinsic motivation', 'offline reinforcement learning', 'robot learning'] # this tags will be displayed on the front page of your posts
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
