@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - feyza-droid
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - feyza-droid/feyza-droid.github.io
+  - feyza-droid/leetcode_solutions
+  - feyza-droid/parallel_programming_project
+  - feyza-droid/rllib-integration
+  - feyza-droid/graph_hw1
+  - feyza-droid/behavioral_cloning
