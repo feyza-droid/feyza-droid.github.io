@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: I have completed my research internship at Munich Institute of Robotics and Machine Intelligence (MIRMI)!
+date: 2022-10-21 01:05:00-0400
 inline: false
 ---
 
