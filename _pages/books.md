@@ -10,7 +10,7 @@ nav_order: 5
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/the_count_of_monte_cristo_part_one.jpg" title="The Count of Monte Cristo, Part One with Hedwig bookmark" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/the_count_of_monte_cristo_part_one.jpg" title="The Count of Monte Cristo, Part One in Turkish with Hedwig bookmark" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
