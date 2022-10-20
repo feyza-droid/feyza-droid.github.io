@@ -6,8 +6,9 @@ https://feyza-droid.github.io/
 
 <hr>
 
-https://github.com/alshedivat/al-folio
-https://picrew.me/image_maker/137904
+<a href="https://github.com/alshedivat/al-folio">al-folio template</a>
+
+<a href="https://picrew.me/image_maker/137904">picrew icon maker</a>
 
 ```
 bundle install
