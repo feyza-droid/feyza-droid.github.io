@@ -10,6 +10,8 @@ https://feyza-droid.github.io/
 
 <a href="https://picrew.me/image_maker/137904">picrew icon maker</a>
 
+![Visitor Count](https://profile-counter.glitch.me/{feyza-droid}/count.svg)
+
 ```
 bundle install
 bundle exec jekyll build
