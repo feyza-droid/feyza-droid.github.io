@@ -6,6 +6,10 @@ github_repos:
   - feyza-droid/leetcode_solutions
   - feyza-droid/parallel_programming_project
   - feyza-droid/rllib-integration
-  - feyza-droid/graph_hw1
   - feyza-droid/behavioral_cloning
   - feyza-droid/dynamic_programming
+  - feyza-droid/scenario-based-rl
+  - feyza-droid/ml_hw1
+  - feyza-droid/ml_hw2
+  - feyza-droid/ml_hw3
+  - feyza-droid/graph_hw1
