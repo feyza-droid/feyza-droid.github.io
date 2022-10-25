@@ -27,16 +27,19 @@ categories: coding
     <li>canConstruct</li>
     <li>countConstruct</li>
     <li>allConstruct</li>
+</ul>
+
+## Tabulation
+<ul>
     <li>tabulation</li>
 </ul>
 
-<hr>
-
 <a href="https://github.com/feyza-droid/dynamic_programming">Python Solutions in GitHub</a>
 
-TO-DO: my implementation in Python and code pieces here and link to the github
+<hr>
 
 <blockquote>
+    TO-DO: Reexamine the space and time complexity of each solution.
+    TO-DO: my implementation in Python and code pieces here and link to the github
     TO-DO: My understanding
 </blockquote>
-
