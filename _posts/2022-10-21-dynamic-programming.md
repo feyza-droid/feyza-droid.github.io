@@ -29,7 +29,7 @@ categories: coding
     <li>allConstruct</li>
 </ul>
 
-## Tabulation
+#### Tabulation
 <ul>
     <li>tabulation</li>
 </ul>
@@ -40,6 +40,12 @@ categories: coding
 
 <blockquote>
     TO-DO: Reexamine the space and time complexity of each solution.
+</blockquote>
+
+<blockquote>
     TO-DO: my implementation in Python and code pieces here and link to the github
+</blockquote>
+
+<blockquote>
     TO-DO: My understanding
 </blockquote>
