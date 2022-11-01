@@ -219,7 +219,7 @@ jekyll-archives:
     tag: '/posts/tag/:name/'
     category: '/posts/category/:name/'
 
-display_tags: ['reinforcement learning', 'imitation learning', 'intrinsic motivation', 'offline reinforcement learning', 'robot learning'] # this tags will be displayed on the front page of your posts
+display_tags: ['software-engineering', 'data-structures', 'algorithms', 'dynamic-programming', 'reinforcement learning', 'imitation learning', 'intrinsic motivation', 'offline reinforcement learning', 'robot learning'] # this tags will be displayed on the front page of your posts
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
