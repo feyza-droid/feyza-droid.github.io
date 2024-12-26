@@ -14,7 +14,9 @@ https://feyza-droid.github.io/
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffeyza-droid%2Fhit-counter&count_bg=%23A7F86A&title_bg=%232274A3&icon=smugmug.svg&icon_color=%23ECD210&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
 ```
+# https://stackoverflow.com/questions/37720892/you-dont-have-write-permissions-for-the-var-lib-gems-2-3-0-directory # use rbenv install 3.1.6
 bundle install
 bundle exec jekyll build
 bundle exec jekyll serve

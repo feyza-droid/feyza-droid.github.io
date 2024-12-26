@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello. I am Feyza Eksen, Master of Science student at Istanbul Technical University. I am interested in coding and Reinforcement Learning in general.
+Hello everyone! 🙋🏻‍♀️
 
-Currently I am preparing a publication related to Data Efficient Offline Reinforcement Learning and solving LeetCode problems.
+My name is Feyza Eksen. I am currently a PhD student in Computer Science at The University of Rostock.
 
-I am very fond of learning 🤓 and reading 📗. I can play the violin a little :violin: and I know a little German 🇩🇪. I love cats, dogs and chicks 😻 🐕 🐥 , who doesn't! 🐾
+I am fond of learning new things 🤓 and reading books 📗. I can play the violin a little bit :violin: and know some German and I'm still learning it 🇩🇪. I love cats, dogs and chicks 😻 🐕 🐥 , who doesn't! 🐾
